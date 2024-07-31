@@ -1,4 +1,4 @@
-# Nginx-ingress-controller
+# Nginx-ingress
 # Introduction to NGINX Ingress Controller
 
 ## Create a kubernetes cluster
